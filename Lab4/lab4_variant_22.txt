@@ -1,0 +1,6 @@
+Egypt;Dominicana;Odesa;Turkey;Italy
+Transport:0.1;10;7;6;9;8
+Price:0.25;7;6;10;8;9
+Quality:0.25;9;10;6;9;8
+Service:0.2;9;10;7;9;8
+Food:0.2;8;10;6;9;8
